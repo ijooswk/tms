@@ -1,0 +1,18 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sehun Park",
+  "license": "ISC",
+  "dependencies": {
+    "excel": "^0.1.7",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "nodemon": "^1.14.11",
+    "xls-to-json": "^0.4.0"
+  }
+}
