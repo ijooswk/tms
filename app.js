@@ -10,4 +10,5 @@ var app = express();
 //     console.log(data);
 //     mdb.insertArray(data);
 // });
+
 mdb.getAll();
