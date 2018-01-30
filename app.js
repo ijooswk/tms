@@ -11,4 +11,5 @@ var app = express();
 //     mdb.insertArray(data);
 // });
 
+//가져와서 뿌려주는 함수
 mdb.getAll();
